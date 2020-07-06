@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./index.scss";
 import { Home } from "./home/Home";
 
-const BlackVoicesRouter = () => {
+const black-storiesRouter = () => {
   return (
     <Router>
       <Switch>
@@ -15,4 +15,4 @@ const BlackVoicesRouter = () => {
 };
 
 const root = document.querySelector("#root");
-ReactDOM.render(<BlackVoicesRouter />, root);
+ReactDOM.render(<black-storiesRouter />, root);

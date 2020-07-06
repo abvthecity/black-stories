@@ -1,8 +1,8 @@
 {
-  "name": "blackvoices",
+  "name": "black-stories",
   "version": "1.0.0",
   "main": "src/index.ts",
-  "repository": "git@github.com:abvthecity/blackvoices.git",
+  "repository": "git@github.com:abvthecity/black-stories.git",
   "author": "Andrew Jiang <andrewmjiang@gmail.com>",
   "license": "MIT",
   "sideEffects": [

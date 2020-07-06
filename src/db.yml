@@ -1,7 +1,15 @@
 tags:
   - id: defundPolice
     name: Defund the Police
+  - id: stem
+    name: Diversify STEM
 posts:
   - url: https://www.instagram.com/p/CBbGeCjFFtM/
     tags:
       - defundPolice
+  - url: https://www.instagram.com/p/CBM-mTlFI9y/
+    tags:
+      - stem
+  - url: https://www.instagram.com/p/B7lxPAxg0rm/
+    tags:
+      - stem
